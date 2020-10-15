@@ -1,2 +1,2 @@
 # matplotlib-challenge
-MatPlotLib
+Matplotlib
